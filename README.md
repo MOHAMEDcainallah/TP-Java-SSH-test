@@ -13,26 +13,20 @@ creating Object from class Salle that has OWn implemented Methods
 * ex. Windows 11
 
 ### Run Program and setup Git CLI
-    - *** Run program ***
+    - ***Run program***
           
-          ```java
-   
-            java TPs.java
+           java TPs.java
 
-          ```
+         
    - ***Push projecr to github Repo*** 
          
+   
+            git commit -m "push the project to repo dir " &&  git push
           
-          ```git
    
-            git commit -m "push the project to repo dir "
+           
 
-          ```"
-          ``git
-   
-            git push
-
-          ```
+        
 
 
 
